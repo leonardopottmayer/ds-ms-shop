@@ -1,0 +1,162 @@
+[
+  {
+    "id": "3942e221-8ffe-431c-a088-38599b307000",
+    "name": "Blue T-Shirt",
+    "price": 50.99,
+    "inStock": 22,
+    "description": "A very comfortable t-shirt",
+    "image": "https://i.ibb.co/0Jt1H1Z/blue-t-shirt.png"
+  },
+  {
+    "id": "3942e221-8ffe-431c-a088-38599b307001",
+    "name": "Red T-Shirt",
+    "price": 50.99,
+    "inStock": 22,
+    "description": "A very comfortable t-shirt",
+    "image": "https://i.ibb.co/0Jt1H1Z/blue-t-shirt.png"
+  },
+  {
+    "id": "3942e221-8ffe-431c-a088-38599b307002",
+    "name": "Green T-Shirt",
+    "price": 50.99,
+    "inStock": 22,
+    "description": "A very comfortable t-shirt",
+    "image": "https://i.ibb.co/0Jt1H1Z/blue-t-shirt.png"
+  },
+  {
+    "id": "3942e221-8ffe-431c-a088-38599b307003",
+    "name": "Yellow T-Shirt",
+    "price": 50.99,
+    "inStock": 22,
+    "description": "A very comfortable t-shirt",
+    "image": "https://i.ibb.co/0Jt1H1Z/blue-t-shirt.png"
+  },
+  {
+    "id": "3942e221-8ffe-431c-a088-38599b307004",
+    "name": "Black T-Shirt",
+    "price": 50.99,
+    "inStock": 22,
+    "description": "A very comfortable t-shirt",
+    "image": "https://i.ibb.co/0Jt1H1Z/blue-t-shirt.png"
+  },
+  {
+    "id": "3942e221-8ffe-431c-a088-38599b307005",
+    "name": "White T-Shirt",
+    "price": 45.99,
+    "inStock": 18,
+    "description": "A classic white t-shirt",
+    "image": "https://i.ibb.co/0Jt1H1Z/blue-t-shirt.png"
+  },
+  {
+    "id": "3942e221-8ffe-431c-a088-38599b307006",
+    "name": "Striped Polo Shirt",
+    "price": 65.5,
+    "inStock": 15,
+    "description": "A stylish polo shirt with stripes",
+    "image": "https://i.ibb.co/0Jt1H1Z/blue-t-shirt.png"
+  },
+  {
+    "id": "3942e221-8ffe-431c-a088-38599b307007",
+    "name": "Denim Jacket",
+    "price": 99.99,
+    "inStock": 10,
+    "description": "A trendy denim jacket",
+    "image": "https://i.ibb.co/0Jt1H1Z/blue-t-shirt.png"
+  },
+  {
+    "id": "3942e221-8ffe-431c-a088-38599b307008",
+    "name": "Leather Jacket",
+    "price": 149.99,
+    "inStock": 5,
+    "description": "A stylish leather jacket for a rugged look",
+    "image": "https://i.ibb.co/0Jt1H1Z/blue-t-shirt.png"
+  },
+  {
+    "id": "3942e221-8ffe-431c-a088-38599b307009",
+    "name": "Slim Fit Jeans",
+    "price": 69.99,
+    "inStock": 20,
+    "description": "Comfortable slim fit jeans for everyday wear",
+    "image": "https://i.ibb.co/0Jt1H1Z/blue-t-shirt.png"
+  },
+  {
+    "id": "3942e221-8ffe-431c-a088-38599b307010",
+    "name": "Hooded Sweatshirt",
+    "price": 39.99,
+    "inStock": 25,
+    "description": "A cozy hooded sweatshirt for chilly days",
+    "image": "https://i.ibb.co/0Jt1H1Z/blue-t-shirt.png"
+  },
+  {
+    "id": "3942e221-8ffe-431c-a088-38599b307011",
+    "name": "Plaid Shirt",
+    "price": 55.0,
+    "inStock": 15,
+    "description": "A classic plaid shirt for a casual look",
+    "image": "https://i.ibb.co/0Jt1H1Z/blue-t-shirt.png"
+  },
+  {
+    "id": "3942e221-8ffe-431c-a088-38599b307012",
+    "name": "Knit Sweater",
+    "price": 49.99,
+    "inStock": 12,
+    "description": "A warm knit sweater for the winter season",
+    "image": "https://i.ibb.co/0Jt1H1Z/blue-t-shirt.png"
+  },
+  {
+    "id": "3942e221-8ffe-431c-a088-38599b307013",
+    "name": "Cargo Shorts",
+    "price": 34.99,
+    "inStock": 30,
+    "description": "Functional cargo shorts for outdoor activities",
+    "image": "https://i.ibb.co/0Jt1H1Z/blue-t-shirt.png"
+  },
+  {
+    "id": "3942e221-8ffe-431c-a088-38599b307014",
+    "name": "V-Neck Sweater",
+    "price": 59.99,
+    "inStock": 18,
+    "description": "A stylish v-neck sweater for a smart-casual look",
+    "image": "https://i.ibb.co/0Jt1H1Z/blue-t-shirt.png"
+  },
+  {
+    "id": "3942e221-8ffe-431c-a088-38599b307015",
+    "name": "Chino Pants",
+    "price": 49.99,
+    "inStock": 20,
+    "description": "Classic chino pants for versatile styling",
+    "image": "https://i.ibb.co/0Jt1H1Z/blue-t-shirt.png"
+  },
+  {
+    "id": "3942e221-8ffe-431c-a088-38599b307016",
+    "name": "Button-Up Shirt",
+    "price": 44.99,
+    "inStock": 15,
+    "description": "A stylish button-up shirt for formal occasions",
+    "image": "https://i.ibb.co/0Jt1H1Z/blue-t-shirt.png"
+  },
+  {
+    "id": "3942e221-8ffe-431c-a088-38599b307017",
+    "name": "Sports Jacket",
+    "price": 79.99,
+    "inStock": 10,
+    "description": "A versatile sports jacket for a polished look",
+    "image": "https://i.ibb.co/0Jt1H1Z/blue-t-shirt.png"
+  },
+  {
+    "id": "3942e221-8ffe-431c-a088-38599b307018",
+    "name": "Printed T-Shirt",
+    "price": 29.99,
+    "inStock": 25,
+    "description": "A trendy printed t-shirt for a casual vibe",
+    "image": "https://i.ibb.co/0Jt1H1Z/blue-t-shirt.png"
+  },
+  {
+    "id": "3942e221-8ffe-431c-a088-38599b307019",
+    "name": "Maxi Dress",
+    "price": 79.99,
+    "inStock": 8,
+    "description": "An elegant maxi dress for special occasions",
+    "image": "https://i.ibb.co/0Jt1H1Z/blue-t-shirt.png"
+  }
+]
