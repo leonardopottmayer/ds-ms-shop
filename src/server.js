@@ -101,6 +101,7 @@ app.post("/products/buy", async (req, res) => {
     to: userEmail,
     subject: "Product purchased successfully!",
     text: `Thank you for your purchase of ${quantity} ${product.name}!`,
+    secretKey: process.env.MAIL_SERVICE_SECRET_KEY
   });
 
   if (mailResponse.status == 200) {
