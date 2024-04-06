@@ -97,22 +97,28 @@ app.post("/products/buy", async (req, res) => {
     });
   }
 
-  const mailResponse = await mailService.post("/send-email", {
-    to: userEmail,
-    subject: "Product purchased successfully!",
-    text: `Thank you for your purchase of ${quantity} ${product.name}!`,
-    secretKey: process.env.MAIL_SERVICE_SECRET_KEY
-  });
+  try {
+    const mailResponse = await mailService.post("/send-email", {
+      to: userEmail,
+      subject: "Product purchased successfully!",
+      text: `Thank you for your purchase of ${quantity} ${product.name}!`,
+      secretKey: process.env.MAIL_SERVICE_SECRET_KEY
+    });  
 
-  if (mailResponse.status == 200) {
-    product.inStock -= quantity;
-    productsInStock[productIndex] = product;
-
-    return res.status(200).json({
-      message: "Product purchased successfully.",
-      totalValue: mailResponse.data.totalValue,
-    });
-  } else {
+    if (mailResponse.status == 200) {
+      product.inStock -= quantity;
+      productsInStock[productIndex] = product;
+  
+      return res.status(200).json({
+        message: "Product purchased successfully.",
+        totalValue: mailResponse.data.totalValue,
+      });
+    } else {
+      return res.status(400).json({
+        message: "Error purchasing product.",
+      });
+    }
+  } catch (error) {
     return res.status(400).json({
       message: "Error purchasing product.",
     });
